@@ -1,36 +1,36 @@
 const products = [
   {
-    id: 'recZkNf2kwmdBcqd0',
-    name: 'accent chair',
+    id: "recZkNf2kwmdBcqd0",
+    name: "accent chair",
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160',
+      "https://images.unsplash.com/photo-1581539250439-c96689b516dd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
   },
   {
-    id: 'recEHmzvupvT8ZONH',
-    name: 'albany sectional',
+    id: "recEHmzvupvT8ZONH",
+    name: "albany sectional",
 
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/0be1af59cf889899b5c9abb1e4db38a4/d631ac52',
+      "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
   },
   {
-    id: 'rec5NBwZ5zCD9nfF0',
-    name: 'albany table',
+    id: "rec5NBwZ5zCD9nfF0",
+    name: "albany table",
 
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/7478483f40a2f56662a87b304bd4e104/707d397f',
+      "https://plus.unsplash.com/premium_photo-1673014201385-115f57893c99?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
   },
   {
-    id: 'recd1jIVIEChmiwhe',
-    name: 'armchair',
+    id: "recd1jIVIEChmiwhe",
+    name: "armchair",
 
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/530c07c5ade5acd9934c8dd334458b86/cf91397f',
+      "https://images.unsplash.com/photo-1562113530-57ba467cea38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
   },
   {
-    id: 'recoM2MyHJGHLVi5l',
-    name: 'bar stool',
+    id: "recoM2MyHJGHLVi5l",
+    name: "bar stool",
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/a6119fabf7256049cc0e8dbcdf536c9c/b0153f66',
+      "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
   },
 ];
 

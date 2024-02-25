@@ -3,30 +3,11 @@ import { NavLink } from "react-router-dom";
 const StyledNavbar = () => {
   return (
     <nav className="navbar">
-      <NavLink
-        className={({ isActive }) => (isActive ? "link active" : "link")}
-        to={"/"}
-      >
-        Home
-      </NavLink>
-      <NavLink
-        className={({ isActive }) => (isActive ? "link active" : "link")}
-        to={"/about"}
-      >
-        About
-      </NavLink>
-      <NavLink
-        className={({ isActive }) => (isActive ? "link active" : "link")}
-        to={"/products"}
-      >
-        Products
-      </NavLink>
-      <NavLink
-        className={({ isActive }) => (isActive ? "link active" : "link")}
-        to={"/errorTest"}
-      >
-        ErrorTest
-      </NavLink>
+      <NavLink to={"/"}>Home</NavLink>
+      <NavLink to={"/about"}>About</NavLink>
+      <NavLink to={"/products"}>Products</NavLink>
+      <NavLink to={"/errorTest"}>ErrorTest</NavLink>
+      <NavLink to={"/login"}>Login</NavLink>
     </nav>
   );
 };
